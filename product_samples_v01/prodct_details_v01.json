@@ -1,0 +1,956 @@
+{
+    "er": 0,
+    "dt": [
+        {
+            "er": 0,
+            "tp": "pdtl",
+            "vr": 1,
+            "dt": [
+                {
+                    "cd": 1854,
+                    "nm": "ALLERGO TAB 10*10 TAB",
+                    "lb": "",
+                    "mrp": 35,
+                    "prc": 28,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": 1919,
+                    "nm": "Allergo Tablate",
+                    "lb": "Strip of 500 tablates",
+                    "mrp": 1500,
+                    "prc": 1200,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00176",
+                    "nm": "Amlycure D.s Capsule ",
+                    "lb": "Strip of 20 capsules",
+                    "mrp": 150,
+                    "prc": 120,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": 1499,
+                    "nm": "Amlycure D.s Syrup",
+                    "lb": "Bottle of 100 ml syrup",
+                    "mrp": 137,
+                    "prc": 109.6,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": 1458,
+                    "nm": "Amlycure D.s Syrup",
+                    "lb": "Bottle of 200 ml syrup",
+                    "mrp": 269,
+                    "prc": 215.2,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": 1505,
+                    "nm": "Amlycure Syrup",
+                    "lb": "Bottle of 200 ml syrup",
+                    "mrp": 181,
+                    "prc": 144.8,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": 1471,
+                    "nm": "Amree Plus Capsule ",
+                    "lb": "Strip of 20 capsules",
+                    "mrp": 122,
+                    "prc": 97.6,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": "A00008",
+                    "nm": "Amree Plus Granules",
+                    "lb": "100 GM",
+                    "mrp": 644,
+                    "prc": 515.2,
+                    "cmp": "AIMIL DOD"
+                },
+                {
+                    "cd": "A00007",
+                    "nm": "Amree Plus Tablate",
+                    "lb": "Strip of 60 tablates",
+                    "mrp": 335,
+                    "prc": 268,
+                    "cmp": "AIMIL DOD"
+                },
+                {
+                    "cd": 1474,
+                    "nm": "Amroid Oint",
+                    "lb": "20 GM",
+                    "mrp": 105,
+                    "prc": 84,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": 1473,
+                    "nm": "Amroid Tablate",
+                    "lb": "Strip of 30 tablates",
+                    "mrp": 195,
+                    "prc": 156,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": 1461,
+                    "nm": "Amycordial Syrup",
+                    "lb": "Bottle of 200 ml syrup",
+                    "mrp": 183,
+                    "prc": 146.4,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": 1460,
+                    "nm": "Amycordial Tablate",
+                    "lb": "Strip of 30 tablates",
+                    "mrp": 161,
+                    "prc": 128.8,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": 1470,
+                    "nm": "Amydio Forte Syrup",
+                    "lb": "Bottle of 100 ml syrup",
+                    "mrp": 116,
+                    "prc": 92.8,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": "A00322",
+                    "nm": "Amynity Plus Liquid(s.f)200 Syrup",
+                    "lb": "Bottle of 200 ml syrup",
+                    "mrp": 340,
+                    "prc": 272,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": "A00015",
+                    "nm": "Amypure Syrup",
+                    "lb": "Bottle of 200 ml syrup",
+                    "mrp": 205,
+                    "prc": 164,
+                    "cmp": "AIMIL DOD"
+                },
+                {
+                    "cd": "A00016",
+                    "nm": "Amypure Tablate",
+                    "lb": "Strip of 100 tablates",
+                    "mrp": 385,
+                    "prc": 308,
+                    "cmp": "AIMIL DOD"
+                },
+                {
+                    "cd": 1467,
+                    "nm": "Amyron Syrup",
+                    "lb": "Bottle of 200 ml syrup",
+                    "mrp": 165,
+                    "prc": 132,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": 1468,
+                    "nm": "Amyron Tablate",
+                    "lb": "Strip of 30 tablates",
+                    "mrp": 165,
+                    "prc": 132,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": 1472,
+                    "nm": "Amystop-g Capsule ",
+                    "lb": "Strip of 10 capsules",
+                    "mrp": 64,
+                    "prc": 51.2,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": 401,
+                    "nm": "Amystop-g Capsule ",
+                    "lb": "Strip of 20 capsules",
+                    "mrp": 149,
+                    "prc": 119.2,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": "A00043",
+                    "nm": "Arborium Plus Syrup",
+                    "lb": "Bottle of 300 ml syrup",
+                    "mrp": 450,
+                    "prc": 360,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00354",
+                    "nm": "Ashwagandha Tab 60(ayuone) Tablate",
+                    "lb": "Strip of 60 tablates",
+                    "mrp": 145,
+                    "prc": 116,
+                    "cmp": "ALAKANANDA HERBALS PVT. LTD"
+                },
+                {
+                    "cd": "A00013",
+                    "nm": "Asthigon Syrup",
+                    "lb": "Bottle of 200 ml syrup",
+                    "mrp": 232,
+                    "prc": 185.6,
+                    "cmp": "AIMIL DOD"
+                },
+                {
+                    "cd": "A00661",
+                    "nm": "Asthivil Tablate",
+                    "lb": "Strip of 500 tablates",
+                    "mrp": 1200,
+                    "prc": 960,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00614",
+                    "nm": "Asthivil Tablate",
+                    "lb": "Strip of 60 tablates",
+                    "mrp": 180,
+                    "prc": 144,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00669",
+                    "nm": "Ayrovin Plus Tablate",
+                    "lb": "Strip of 150 tablates",
+                    "mrp": 800,
+                    "prc": 640,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": 1730,
+                    "nm": "Ayurvedaone Hair Oil Syrup",
+                    "lb": "Bottle of 100 ml syrup",
+                    "mrp": 299,
+                    "prc": 239.2,
+                    "cmp": "ALAKANANDA HERBALS PVT. LTD"
+                },
+                {
+                    "cd": 440,
+                    "nm": "AYUSH KWATH POWDER 90 GMS",
+                    "lb": "",
+                    "mrp": 240,
+                    "prc": 192,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": 1464,
+                    "nm": "Bgr 34 Tablate",
+                    "lb": "Strip of 100 tablates",
+                    "mrp": 600,
+                    "prc": 480,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": "A00053",
+                    "nm": "Boniheal Suspension Syrup",
+                    "lb": "Bottle of 200 ml syrup",
+                    "mrp": 515,
+                    "prc": 412,
+                    "cmp": "AIMIL DOD"
+                },
+                {
+                    "cd": 338,
+                    "nm": "Boniheal Tablate",
+                    "lb": "Strip of 20 tablates",
+                    "mrp": 160,
+                    "prc": 128,
+                    "cmp": "AIMIL DOD"
+                },
+                {
+                    "cd": 1923,
+                    "nm": "Brihatri Chintamani Rasa Tablate",
+                    "lb": "Strip of 30 tablates",
+                    "mrp": 840,
+                    "prc": 672,
+                    "cmp": "ALAKANANDA HERBALS PVT. LTD"
+                },
+                {
+                    "cd": 1296,
+                    "nm": "Cardorium Plus Syrup",
+                    "lb": "Bottle of 300 ml syrup",
+                    "mrp": 450,
+                    "prc": 360,
+                    "cmp": "ALAKANANDA HERBALS PVT. LTD"
+                },
+                {
+                    "cd": "A00670",
+                    "nm": "Charankamal Cream Cream",
+                    "lb": "Tube of 30 gm cream",
+                    "mrp": 80,
+                    "prc": 64,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": 442,
+                    "nm": "Deep Clean Anti.hand Gel Syrup",
+                    "lb": "Bottle of 100 ml syrup",
+                    "mrp": 50,
+                    "prc": 40,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": "A00295",
+                    "nm": "Deep Clean Anti.hand Gel Syrup",
+                    "lb": "Bottle of 200 ml syrup",
+                    "mrp": 100,
+                    "prc": 80,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": "A00017",
+                    "nm": "Dermacharge Powder",
+                    "lb": "100 GM",
+                    "mrp": 181,
+                    "prc": 144.8,
+                    "cmp": "AIMIL DOD"
+                },
+                {
+                    "cd": 1731,
+                    "nm": "EEEZ AR TAB 1*30TAB",
+                    "lb": "",
+                    "mrp": 210,
+                    "prc": 168,
+                    "cmp": "ALAKANANDA HERBALS PVT. LTD"
+                },
+                {
+                    "cd": "A00671",
+                    "nm": "Eye Bright Capsule ",
+                    "lb": "Strip of 50 capsules",
+                    "mrp": 180,
+                    "prc": 144,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00660",
+                    "nm": "FALOVA CAP 10*10 CAP",
+                    "lb": "",
+                    "mrp": 600,
+                    "prc": 480,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00664",
+                    "nm": "Falova Plus Capsule ",
+                    "lb": "Strip of 100 capsules",
+                    "mrp": 800,
+                    "prc": 640,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00506",
+                    "nm": "FALOVA PREMIUM CAP 2*15 CAP",
+                    "lb": "",
+                    "mrp": 300,
+                    "prc": 240,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": 1855,
+                    "nm": "FEVLU TAB 10*10 TAB",
+                    "lb": "",
+                    "mrp": 45,
+                    "prc": 36,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": 1920,
+                    "nm": "Fevlu Tablate",
+                    "lb": "Strip of 500 tablates",
+                    "mrp": 2000,
+                    "prc": 1600,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": 1506,
+                    "nm": "Fifatrol Tablate",
+                    "lb": "Strip of 30 tablates",
+                    "mrp": 184,
+                    "prc": 147.2,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": 1787,
+                    "nm": "Flatula-o Syrup",
+                    "lb": "Bottle of 200 ml syrup",
+                    "mrp": 150,
+                    "prc": 120,
+                    "cmp": "ALAKANANDA HERBALS PVT. LTD"
+                },
+                {
+                    "cd": "A00677",
+                    "nm": "Greast Oil Syrup",
+                    "lb": "Bottle of 100 ml syrup",
+                    "mrp": 250,
+                    "prc": 200,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00678",
+                    "nm": "Greast Tablate",
+                    "lb": "Strip of 90 tablates",
+                    "mrp": 250,
+                    "prc": 200,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00534",
+                    "nm": "Hairtone Oil Syrup",
+                    "lb": "Bottle of 150 ml syrup",
+                    "mrp": 220,
+                    "prc": 176,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00290",
+                    "nm": "Immunoj Capsule ",
+                    "lb": "Strip of 30 capsules",
+                    "mrp": 380,
+                    "prc": 304,
+                    "cmp": "ALAKANANDA HERBALS PVT. LTD"
+                },
+                {
+                    "cd": 1466,
+                    "nm": "Jufex Forte Syrup",
+                    "lb": "Bottle of 100 ml syrup",
+                    "mrp": 150,
+                    "prc": 120,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": 1465,
+                    "nm": "Jufex Syrup",
+                    "lb": "Bottle of 100 ml syrup",
+                    "mrp": 90,
+                    "prc": 72,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": "A00056",
+                    "nm": "K.g.tone Forte Syrup",
+                    "lb": "Bottle of 100 ml syrup",
+                    "mrp": 130,
+                    "prc": 104,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": "A00742",
+                    "nm": "KALCIUM N TAB 1*30TAB 1*30 TAB",
+                    "lb": "",
+                    "mrp": 320,
+                    "prc": 256,
+                    "cmp": "ALAKANANDA HERBALS PVT. LTD"
+                },
+                {
+                    "cd": "A00535",
+                    "nm": "Keshraksha Avleh",
+                    "lb": "500 GM",
+                    "mrp": 270,
+                    "prc": 216,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00550",
+                    "nm": "Keshtone Shampoo Syrup",
+                    "lb": "Bottle of 170 ml syrup",
+                    "mrp": 140,
+                    "prc": 112,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": 1848,
+                    "nm": "Keshtone Shampoo Syrup",
+                    "lb": "Bottle of 900 ml syrup",
+                    "mrp": 450,
+                    "prc": 360,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00536",
+                    "nm": "Keshvruddhi Capsule ",
+                    "lb": "Strip of 120 capsules",
+                    "mrp": 300,
+                    "prc": 240,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00687",
+                    "nm": "Keshvruddhi Capsule ",
+                    "lb": "Strip of 500 capsules",
+                    "mrp": 1200,
+                    "prc": 960,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00662",
+                    "nm": "Khokhi Syrup Syrup",
+                    "lb": "Bottle of 100 ml syrup",
+                    "mrp": 75,
+                    "prc": 60,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00597",
+                    "nm": "LAXCEF TAB 500 MG 10*10",
+                    "lb": "",
+                    "mrp": 45,
+                    "prc": 36,
+                    "cmp": "ALAKANANDA HERBALS PVT. LTD"
+                },
+                {
+                    "cd": 1788,
+                    "nm": "LIPIDOF COMBO 30*2",
+                    "lb": "",
+                    "mrp": 330,
+                    "prc": 264,
+                    "cmp": "ALAKANANDA HERBALS PVT. LTD"
+                },
+                {
+                    "cd": 1534,
+                    "nm": "Luko Skin Combo Pack COMBO",
+                    "lb": "",
+                    "mrp": 772,
+                    "prc": 617.6,
+                    "cmp": "AIMIL DOD"
+                },
+                {
+                    "cd": "A00206",
+                    "nm": "Luko Skin Ointment",
+                    "lb": "40 GM",
+                    "mrp": 295,
+                    "prc": 236,
+                    "cmp": "AIMIL DOD"
+                },
+                {
+                    "cd": 1535,
+                    "nm": "Luko Skin Oral Liq Syrup",
+                    "lb": "Bottle of 100 ml syrup",
+                    "mrp": 555,
+                    "prc": 444,
+                    "cmp": "AIMIL DOD"
+                },
+                {
+                    "cd": "A00733",
+                    "nm": "Medha Pills Tablate",
+                    "lb": "Strip of 500 tablates",
+                    "mrp": 700,
+                    "prc": 560,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00574",
+                    "nm": "Medha Pills Tablate",
+                    "lb": "Strip of 90 tablates",
+                    "mrp": 150,
+                    "prc": 120,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": 428,
+                    "nm": "Mehon Cap 1*10S 1*10S",
+                    "lb": "",
+                    "mrp": 48,
+                    "prc": 38.4,
+                    "cmp": "ALAKANANDA HERBALS PVT. LTD"
+                },
+                {
+                    "cd": 1488,
+                    "nm": "Memtone Syrup",
+                    "lb": "Bottle of 200 ml syrup",
+                    "mrp": 236,
+                    "prc": 188.8,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": 427,
+                    "nm": "Mentact Tablate",
+                    "lb": "Strip of 30 tablates",
+                    "mrp": 220,
+                    "prc": 176,
+                    "cmp": "ALAKANANDA HERBALS PVT. LTD"
+                },
+                {
+                    "cd": "A00014",
+                    "nm": "Muscalt Fort Oil Spray",
+                    "lb": "30 ML",
+                    "mrp": 176,
+                    "prc": 140.8,
+                    "cmp": "AIMIL DOD"
+                },
+                {
+                    "cd": 1504,
+                    "nm": "Muscalt Fort Syrup",
+                    "lb": "Bottle of 200 ml syrup",
+                    "mrp": 365,
+                    "prc": 292,
+                    "cmp": "AIMIL DOD"
+                },
+                {
+                    "cd": 1477,
+                    "nm": "Muscalt Forte Tablate",
+                    "lb": "Strip of 30 tablates",
+                    "mrp": 135,
+                    "prc": 108,
+                    "cmp": "AIMIL DOD"
+                },
+                {
+                    "cd": 416,
+                    "nm": "Muscalt Forte Tablate",
+                    "lb": "Strip of 500 tablates",
+                    "mrp": 2075,
+                    "prc": 1660,
+                    "cmp": "AIMIL DOD"
+                },
+                {
+                    "cd": "A00681",
+                    "nm": "Neem Tablate",
+                    "lb": "Strip of 500 tablates",
+                    "mrp": 500,
+                    "prc": 400,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00672",
+                    "nm": "Neem Tablate",
+                    "lb": "Strip of 90 tablates",
+                    "mrp": 120,
+                    "prc": 96,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": 1463,
+                    "nm": "Neeri Kft Syr (sf)200 Syrup",
+                    "lb": "Bottle of 200 ml syrup",
+                    "mrp": 520,
+                    "prc": 416,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": 1455,
+                    "nm": "Neeri Syrup",
+                    "lb": "Bottle of 100 ml syrup",
+                    "mrp": 135,
+                    "prc": 108,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": 1456,
+                    "nm": "Neeri Syrup",
+                    "lb": "Bottle of 200 ml syrup",
+                    "mrp": 235,
+                    "prc": 188,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": 1457,
+                    "nm": "Neeri Tablate",
+                    "lb": "Strip of 30 tablates",
+                    "mrp": 155,
+                    "prc": 124,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": "A00291",
+                    "nm": "Nidron Tablate",
+                    "lb": "Strip of 30 tablates",
+                    "mrp": 220,
+                    "prc": 176,
+                    "cmp": "ALAKANANDA HERBALS PVT. LTD"
+                },
+                {
+                    "cd": "A00184",
+                    "nm": "Nurall Capsule ",
+                    "lb": "Strip of 60 capsules",
+                    "mrp": 415,
+                    "prc": 360,
+                    "cmp": "ALAKANANDA HERBALS PVT. LTD"
+                },
+                {
+                    "cd": "A00484",
+                    "nm": "Palsipyrin Tablate",
+                    "lb": "Strip of 30 tablates",
+                    "mrp": 180,
+                    "prc": 144,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00537",
+                    "nm": "Palsipyrin Tablate",
+                    "lb": "Strip of 500 tablates",
+                    "mrp": 2600,
+                    "prc": 2080,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00623",
+                    "nm": "Pimplox Cream Cream",
+                    "lb": "Tube of 30 gm cream",
+                    "mrp": 80,
+                    "prc": 64,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": 1747,
+                    "nm": "Pimplox Tablate",
+                    "lb": "Strip of 90 tablates",
+                    "mrp": 160,
+                    "prc": 128,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00485",
+                    "nm": "Psory Capsule ",
+                    "lb": "Strip of 100 capsules",
+                    "mrp": 600,
+                    "prc": 480,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00684",
+                    "nm": "Psory Capsule ",
+                    "lb": "Strip of 500 capsules",
+                    "mrp": 2750,
+                    "prc": 2200,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00582",
+                    "nm": "Psory Ointment",
+                    "lb": "30 GM",
+                    "mrp": 80,
+                    "prc": 64,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": 1732,
+                    "nm": "Psory Ointment",
+                    "lb": "70 GM",
+                    "mrp": 160,
+                    "prc": 128,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00630",
+                    "nm": "Psory Soap",
+                    "lb": "75 GM",
+                    "mrp": 79,
+                    "prc": 63.2,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": 1536,
+                    "nm": "Purodil Gel",
+                    "lb": "20 GM",
+                    "mrp": 167,
+                    "prc": 133.6,
+                    "cmp": "AIMIL DOD"
+                },
+                {
+                    "cd": 1489,
+                    "nm": "Purodil Syrup",
+                    "lb": "Bottle of 200 ml syrup",
+                    "mrp": 248,
+                    "prc": 198.4,
+                    "cmp": "AIMIL DOD"
+                },
+                {
+                    "cd": 1533,
+                    "nm": "Purodil Tablate",
+                    "lb": "Strip of 30 tablates",
+                    "mrp": 187,
+                    "prc": 149.6,
+                    "cmp": "AIMIL DOD"
+                },
+                {
+                    "cd": "A00656",
+                    "nm": "Relax Masage Oil Syrup",
+                    "lb": "Bottle of 100 ml syrup",
+                    "mrp": 180,
+                    "prc": 144,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00507",
+                    "nm": "RHEUMARAS CAP 10*10 10*10 CAP",
+                    "lb": "",
+                    "mrp": 500,
+                    "prc": 400,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00551",
+                    "nm": "Rheumaras Capsule ",
+                    "lb": "Strip of 500 capsules",
+                    "mrp": 2250,
+                    "prc": 1800,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00667",
+                    "nm": "Rheumaras Gel",
+                    "lb": "30 GM",
+                    "mrp": 80,
+                    "prc": 64,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00552",
+                    "nm": "Safe Oil Syrup",
+                    "lb": "Bottle of 40 ml syrup",
+                    "mrp": 100,
+                    "prc": 80,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": 239,
+                    "nm": "Semento Capsule ",
+                    "lb": "Strip of 20 capsules",
+                    "mrp": 230,
+                    "prc": 184,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": "A00690",
+                    "nm": "SHATAGRIT CAP 10*10 CAP",
+                    "lb": "",
+                    "mrp": 600,
+                    "prc": 480,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": 1924,
+                    "nm": "Shishu Kalyana Rasa Tablate",
+                    "lb": "Strip of 30 tablates",
+                    "mrp": 1800,
+                    "prc": 1440,
+                    "cmp": "ALAKANANDA HERBALS PVT. LTD"
+                },
+                {
+                    "cd": "A00306",
+                    "nm": "Strong Joint 30 Tablate",
+                    "lb": "Strip of 30 tablates",
+                    "mrp": 300,
+                    "prc": 240,
+                    "cmp": "ALAKANANDA HERBALS PVT. LTD"
+                },
+                {
+                    "cd": 1926,
+                    "nm": "Swarna Madhumeh Sanjivani Rasa Tablate",
+                    "lb": "Strip of 30 tablates",
+                    "mrp": 850,
+                    "prc": 680,
+                    "cmp": "ALAKANANDA HERBALS PVT. LTD"
+                },
+                {
+                    "cd": 1925,
+                    "nm": "Swarna Sekhara Rasa Tablate",
+                    "lb": "Strip of 30 tablates",
+                    "mrp": 700,
+                    "prc": 560,
+                    "cmp": "ALAKANANDA HERBALS PVT. LTD"
+                },
+                {
+                    "cd": "A00691",
+                    "nm": "Swarnaprashana1(0-1yr) BOX",
+                    "lb": "",
+                    "mrp": 200,
+                    "prc": 160,
+                    "cmp": "ALAKANANDA HERBALS PVT. LTD"
+                },
+                {
+                    "cd": "A00692",
+                    "nm": "Swarnaprashana2(1-5yr) BOX",
+                    "lb": "",
+                    "mrp": 225,
+                    "prc": 180,
+                    "cmp": "ALAKANANDA HERBALS PVT. LTD"
+                },
+                {
+                    "cd": "A00693",
+                    "nm": "Swarnaprashana3(5-10yr) BOX",
+                    "lb": "",
+                    "mrp": 250,
+                    "prc": 200,
+                    "cmp": "ALAKANANDA HERBALS PVT. LTD"
+                },
+                {
+                    "cd": "A00694",
+                    "nm": "Swarnaprashana4(10-15yr) BOX",
+                    "lb": "",
+                    "mrp": 275,
+                    "prc": 220,
+                    "cmp": "ALAKANANDA HERBALS PVT. LTD"
+                },
+                {
+                    "cd": "A00668",
+                    "nm": "TALGO CAP 10*10'S",
+                    "lb": "",
+                    "mrp": 200,
+                    "prc": 160,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00680",
+                    "nm": "Talgo Capsule ",
+                    "lb": "Strip of 250 capsules",
+                    "mrp": 2750,
+                    "prc": 2200,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": 1927,
+                    "nm": "TATVAM TAB 1*10'S",
+                    "lb": "",
+                    "mrp": 61,
+                    "prc": 48.8,
+                    "cmp": "ALAKANANDA HERBALS PVT. LTD"
+                },
+                {
+                    "cd": 1872,
+                    "nm": "THYROVIB CAP 10*10 CAP",
+                    "lb": "",
+                    "mrp": 100,
+                    "prc": 80,
+                    "cmp": "ALAKANANDA HERBALS PVT. LTD"
+                },
+                {
+                    "cd": 1856,
+                    "nm": "URILEEX TAB 2*10*15 TAB",
+                    "lb": "",
+                    "mrp": 150,
+                    "prc": 120,
+                    "cmp": "Ailvil Healthcare"
+                },
+                {
+                    "cd": "A00353",
+                    "nm": "Vajeevan",
+                    "lb": "400 GM",
+                    "mrp": 585,
+                    "prc": 468,
+                    "cmp": "ALAKANANDA HERBALS PVT. LTD"
+                },
+                {
+                    "cd": 1469,
+                    "nm": "Zymnet Plus Syrup",
+                    "lb": "Bottle of 100 ml syrup",
+                    "mrp": 110,
+                    "prc": 88,
+                    "cmp": "AIMIL NUCLIUS"
+                },
+                {
+                    "cd": 1507,
+                    "nm": "Zymnet Plus Syrup",
+                    "lb": "Bottle of 200 ml syrup",
+                    "mrp": 198,
+                    "prc": 158.4,
+                    "cmp": "AIMIL NUCLIUS"
+                }
+            ]
+        }
+    ]
+}
